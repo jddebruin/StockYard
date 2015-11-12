@@ -1,0 +1,9 @@
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\bin\Debug\StockYard.dll
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\bin\Debug\StockYard.pdb
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\bin\Debug\Xamarin.Forms.Core.dll
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\bin\Debug\Xamarin.Forms.Core.xml
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\obj\Debug\StockYard.csprojResolveAssemblyReference.cache
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\obj\Debug\StockYard.dll
+C:\Home\Xamarin\Temp\StockYard\StockYard\StockYard\obj\Debug\StockYard.pdb
